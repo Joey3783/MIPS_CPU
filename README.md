@@ -8,4 +8,5 @@ Supporting R-format, I-format, and J-format instructions
 
 # 5-stage Pipeline CPU
 Supporting 5-stage pipeline by adding buffers in Single-cycle CPU.
-![image](5-stage Pipeline CPU/Architecture.png)
+
+![image](https://github.com/Joey3783/MIPS_CPU/blob/main/5-stage%20Pipeline%20CPU/Architecture.png)
